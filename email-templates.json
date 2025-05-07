@@ -1,0 +1,18 @@
+{
+    "welcome": {
+        "subject": "Welcome to {company_name} - Let's Connect!",
+        "content": "Dear {first_name},\n\nThank you for your interest in our services. We noticed you've been exploring our solutions and wanted to reach out personally.\n\nWould you be interested in a brief call to discuss how we can help {company_name} achieve its goals?\n\nBest regards,\nYour Name"
+    },
+    "follow_up": {
+        "subject": "Following up on your interest in our solutions",
+        "content": "Hi {first_name},\n\nI noticed you recently downloaded our {content_name}. I'd love to hear your thoughts and discuss how we could implement similar solutions for {company_name}.\n\nWould you have 15 minutes this week for a quick chat?\n\nBest,\nYour Name"
+    },
+    "nurture": {
+        "subject": "Thought you might find this interesting",
+        "content": "Hello {first_name},\n\nBased on your interest in {topic}, I thought you might find this case study relevant: {case_study_link}\n\nIt shows how companies similar to {company_name} have achieved {benefit}.\n\nLet me know if you'd like to discuss this further.\n\nBest regards,\nYour Name"
+    },
+    "meeting_request": {
+        "subject": "Quick call this week?",
+        "content": "Hi {first_name},\n\nGiven your interest in {solution_area}, I believe we could provide significant value to {company_name}.\n\nWould you be available for a 15-minute call this week to discuss potential solutions?\n\nBest regards,\nYour Name"
+    }
+}
